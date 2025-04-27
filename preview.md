@@ -2,7 +2,7 @@
 
 ## 👥 Team Members
 
-Thi Hong Nhung
+Thi Hong Nhung,
 Sayqin Rustamli
 
 ---
